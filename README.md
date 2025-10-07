@@ -15,4 +15,9 @@ Esta biblioteca fornece classes, interfaces e utilitários que permitem a criaç
 1. Clone o repositório:
 ```bash
 git clone https://github.com/pmcvz1/GraphPack_2023_2024_V1_0.git
+```
+
+2. Importe o projeto para a tua IDE (Eclipse, IntelliJ, etc.)
+
+3. Adicione-o como dependência em projetos que o utilizem, como o Sokoban
 
